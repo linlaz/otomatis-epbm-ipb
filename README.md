@@ -2,7 +2,7 @@
 
 ## Step
 - Buka [Student Portal IPB](https://studentportal.ipb.ac.id/Akademik/EPBM)
-- Pilih salah satu matkul
+- Pilih salah satu matkul dan hanya untuk matkul
 - Buka Console Browser (Ctrl + shift + j) / (klik f12 pilih console)
 - Copy and paste kode di bawah ini
 

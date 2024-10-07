@@ -2,12 +2,12 @@
 
 ## Step
 - Buka [Student Portal IPB](https://studentportal.ipb.ac.id/Akademik/EPBM)
-- Pilih salah satu matkul dan **hanya untuk matkul**
+- Pilih salah satu matkul dan **hanya untuk matkul** bukan prasana
 - Buka Console Browser (Ctrl + shift + j) / (klik f12 pilih console)
 - Copy and paste kode di bawah ini
 
 ```
-async function SetStart() {
+async function setStart() {
     return new Promise((resolve) => {
         const temp = document.getElementsByClassName("form-control");
 
@@ -22,7 +22,7 @@ const list = document.getElementsByClassName("list-group").length;
 
 (async function executeWithDelay() {
     for (let i = 2; i <= list - 1; i++) {
-        await SetStart();
+        await setStart();
         document.getElementsByClassName("btn-primary")[0].click();
         await new Promise((resolve) => setTimeout(resolve, 500));
     }

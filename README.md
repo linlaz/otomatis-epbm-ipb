@@ -1,7 +1,7 @@
 # Pengisian EPBM IPB Secara Otomatis
 
 ## Step
-- Buka studentportal.ipb.ac.id/Akademik/EPBM
+- Buka [Student Portal IPB](https://studentportal.ipb.ac.id/Akademik/EPBM)
 - Pilih salah satu matkul
 - Buka Console Browser (Ctrl + shift + j) / (klik f12 pilih console)
 - Copy and paste kode di bawah ini

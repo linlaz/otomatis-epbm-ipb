@@ -4,7 +4,7 @@
 - Buka [Student Portal IPB](https://studentportal.ipb.ac.id/Akademik/EPBM)
 - Pilih salah satu matkul dan **hanya untuk matkul** bukan prasana
 - Buka Console Browser (Ctrl + shift + j) / (klik f12 pilih console)
-- Copy and paste kode di bawah ini
+- Copy dan paste kode di bawah ini *
 
 ```
 async function setStart() {
@@ -34,3 +34,7 @@ const list = document.getElementsByClassName("list-group").length;
     document.getElementsByClassName("swal2-confirm")[0].click();
 })();
 ```
+## HIMBAUAN!!!!
+- Jika terdapat warning Don't Paste seperti gambar dibawah. Bisa ketik `allow pasting` tekan enter lalu copy dan paste kode di atas
+  ![image](https://github.com/user-attachments/assets/74550e1f-546a-4716-82cc-5708c073bcd2)
+

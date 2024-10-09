@@ -35,6 +35,6 @@ const list = document.getElementsByClassName("list-group").length;
 })();
 ```
 ## HIMBAUAN!!!!
-- Jika terdapat warning Don't Paste seperti gambar dibawah. Bisa ketik `allow pasting` tekan **Enter** lalu copy dan paste kode di atas
+- Jika terdapat warning Don't Paste seperti gambar dibawah. Bisa **Ketik** `allow pasting` tekan **Enter** lalu copy dan paste kode di atas
   ![image](https://github.com/user-attachments/assets/74550e1f-546a-4716-82cc-5708c073bcd2)
 
